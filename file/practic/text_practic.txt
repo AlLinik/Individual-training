@@ -1,0 +1,5 @@
+with
+practic
+txt
+as
+write

@@ -1,0 +1,5 @@
+Petrov Petr 3
+Ivanov Ivan 5
+Fedorov Fedor 2
+Victorov Victor 4
+Leonidov Leonid 2
